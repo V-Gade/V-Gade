@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **gade.varsha12@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/varsha-gade24](www.linkedin.com/in/varsha-gade24)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/varsha gade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varsha gade" height="30" width="40" /></a>
